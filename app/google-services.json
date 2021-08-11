@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "794565762207",
+    "project_id": "go-voices",
+    "storage_bucket": "go-voices.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794565762207:android:95133f799499907291d6aa",
+        "android_client_info": {
+          "package_name": "com.ajiashi.govoicesoffline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794565762207-54r4159lb412vdis3dolbd6m1vame0fe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ajiashi.govoicesoffline",
+            "certificate_hash": "2a120daa94202f4addacecac1043d2f4faaaec07"
+          }
+        },
+        {
+          "client_id": "794565762207-cjjt29bso9htasf1400b6vt13hksancl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJH0-a5MrO9pL-uQv1zmr__1uzUJlWl3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794565762207-cjjt29bso9htasf1400b6vt13hksancl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
