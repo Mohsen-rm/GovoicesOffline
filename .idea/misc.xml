@@ -1,0 +1,18 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mohsen/Documents/Apps Android/StoryinEnglish/app/src/main/res/layout/activity_main.xml" value="0.14479166666666668" />
+        <entry key="..\:/Users/mohsen/Documents/Apps Android/StoryinEnglish/app/src/main/res/layout/home_fragment.xml" value="0.14479166666666668" />
+        <entry key="..\:/Users/mohsen/Documents/Apps Android/StoryinEnglish/app/src/main/res/layout/read_story.xml" value="0.14479166666666668" />
+        <entry key="..\:/Users/mohsen/Documents/Apps Android/StoryinEnglish/app/src/main/res/layout/show_story.xml" value="0.14479166666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,297 @@
+<resources>
+    <string name="app_name">GO Voices</string>
+    <string name="description" translatable="false">Description</string>
+    <string name="title" translatable="false">Title</string>
+    <string name="hint_text" translatable="false">Priority</string>
+    <string name="privacy_policy" translatable="false">https://sites.google.com/view/youknowping/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9</string>
+    <string-array name="priorityList">
+        <item>عام</item>
+        <item>غير ذلك</item>
+    </string-array>
+
+
+    <string-array name="animls">
+        <item>Alpaca_Mating_Call_Stephan_Schutze.mp3</item>
+        <item>Angry_Cat.mp3</item>
+        <item>Angry_Dog.mp3</item>
+        <item>Barred_Owl_Call.mp3</item>
+        <item>Bats_in_Cave_Mike_Koenig.mp3</item>
+        <item>Best_Cardinal_Bird.mp3</item>
+        <item>birds_after_rain_Mike_Koenig.mp3</item>
+        <item>Bird_in_Rain_Mike_Koenig.mp3</item>
+        <item>Black_Crows_Cawing.mp3</item>
+        <item>bluejay_call_Mike_Koenig.mp3</item>
+        <item>cartoon_birds.mp3</item>
+        <item>Cat_0.mp3</item>
+        <item>Cat_Meowing_Mr_Smit.mp3</item>
+        <item>Cat_Meow_Cat_Stevens.mp3</item>
+        <item>Cat_Scream.mp3</item>
+        <item>Cave_Bats_Mike_Koenig.mp3</item>
+        <item>Cow_Moos_3.mp3</item>
+        <item>Cow_Moo_Mike_Koenig.mp3</item>
+        <item>Crickets_Chirping.mp3</item>
+        <item>Crows1.mp3</item>
+        <item>Devil_Dog_Crazy.mp3</item>
+        <item>Dinosaur.mp3</item>
+        <item>Dog_Howling_At_M.mp3</item>
+        <item>dove_Mike_Koenig.mp3</item>
+        <item>Eaglet_Bird.mp3</item>
+        <item>Eaglet_Bird_2.mp3</item>
+        <item>Elephant.mp3</item>
+        <item>Falcon_Mark_Mattingly.mp3</item>
+        <item>FarM.mp3</item>
+        <item>Farm_Animals_Amb.mp3</item>
+        <item>Farm_Animals_Mi.mp3</item>
+        <item>Farm_Animals_Mix.mp3</item>
+        <item>Frogs_Lisa_Redfern.mp3</item>
+        <item>Frog_Croaking.mp3</item>
+        <item>gibbon_monkey_daniel_simon.mp3</item>
+        <item>Goats_Multiple_In_Dis.mp3</item>
+        <item>Goat_Baby_Bah_A.mp3</item>
+        <item>Goat_Baby_Cry.mp3</item>
+        <item>Goat_Bah_.mp3</item>
+        <item>Goat_Short_Far_Away.mp3</item>
+        <item>Growling_Snarling_Dogs_Lisa_Redfern.mp3</item>
+        <item>guinea_pig_daniel_simon.mp3</item>
+        <item>Hawk_Call_2x.mp3</item>
+        <item>hawk_screech_valley_Mike_Koenig.mp3</item>
+        <item>horned_owl_Mike_Koenig.mp3</item>
+        <item>Horse_Angry_Neigh_And_Breathi.mp3</item>
+        <item>horse_blow_stephan.mp3</item>
+        <item>Horse_Breathing_A.mp3</item>
+        <item>Horse_Cry_Hard_C.mp3</item>
+        <item>Horse_Neigh.mp3</item>
+        <item>Howler_Monkeys_Sounds_Effects.mp3</item>
+        <item>labrador_barking_daniel_simon.mp3</item>
+        <item>Laughing_kookaburra_birds_Christopher.mp3</item>
+        <item>Lion.mp3</item>
+        <item>Lion_Growling.mp3</item>
+        <item>mallard_duck_quacking_Mike_Koenig.mp3</item>
+        <item>meadowlark_daniel_simion.mp3</item>
+        <item>mixkit_dog_barking_twice.wav</item>
+        <item>mixkit_little_birds_singing_in_the_trees.wav</item>
+        <item>mixkit_pig_grunting.wav</item>
+        <item>mixkit_wild_lion_animal_roar.wav</item>
+        <item>mixkit_wounded_lion_growling.wav</item>
+        <item>Monster_Gigante_Doberman.mp3</item>
+        <item>Monster_Growl.mp3</item>
+        <item>Neighborhood_Dogs_Barking.mp3</item>
+        <item>Night_Time_Storm_Sounds_Effects.mp3</item>
+        <item>On_The_Farm.mp3</item>
+        <item>Parakeet.mp3</item>
+        <item>Parakeet_Talking.mp3</item>
+        <item>Parots_Talking.mp3</item>
+        <item>Peacock.mp3</item>
+        <item>Peacock_Call.mp3</item>
+        <item>pterodactyl_screech_Mike_Koenig.mp3</item>
+        <item>Puppy_Dog_Barking.mp3</item>
+        <item>Quack_Quack.mp3</item>
+        <item>Red_stag_roar_Juan_Carlos.mp3</item>
+        <item>Roaring_Lion.mp3</item>
+        <item>Rooster.mp3</item>
+        <item>Rooster_Crow.mp3</item>
+        <item>Rooster_Crowing.wav</item>
+        <item>Rudy_rooster_crowing_Shelley.mp3</item>
+        <item>Screaming_Hawk_2.mp3</item>
+        <item>Sheep_Lamb_Bah.mp3</item>
+        <item>Single_Cow.mp3</item>
+        <item>TomCat_Mr_Smith.mp3</item>
+        <item>Turkey_Assembly.mp3</item>
+        <item>Turkey_Call_2_JimBob.mp3</item>
+        <item>Turkey_Cluck_And_Purr.mp3</item>
+        <item>Turkey_Gobble.mp3</item>
+        <item>Turkey_Hen_Yelping.mp3</item>
+        <item>Turkey_Tree_Call.mp3</item>
+        <item>Tyrannosaurus_Rex.mp3</item>
+        <item>Voice_lol.mp3</item>
+        <item>Western_Sandpiper.mp3</item>
+        <item>Wolf_Howling_Yipping.mp3</item>
+    </string-array>
+
+
+    <string-array name="cars">
+        <item>AirHorn_0.mp3</item>
+        <item>airplane_0.mp3</item>
+        <item>battle_field_navaneetha_kris.mp3</item>
+        <item>Best_Helicopter_Pass_Mike_Koenig.mp3</item>
+        <item>Buzz_Kp.mp3</item>
+        <item>Chainsaw.mp3</item>
+        <item>Chainsaw_Quick.mp3</item>
+        <item>dixie_horn_daniel.mp3</item>
+        <item>Fire_trucks_Sirens.mp3</item>
+        <item>fire_truck_air_horn_danielE.mp3</item>
+        <item>Fire_Truck_Siren.mp3</item>
+        <item>foghorn_daniel_simon.mp3</item>
+        <item>formula_1_daniel.mp3</item>
+        <item>harley_davidso_daniel_simon.mp3</item>
+        <item>Healicopter_Approach_Mike_Koenig.mp3</item>
+        <item>Helicopter_Against_Missile_Chester_Barrett.mp3</item>
+        <item>Helicopter_Circling_Back_Mike.mp3</item>
+        <item>Humvee_Stephan_Schutze.mp3</item>
+        <item>Mossberg_500_Pump_Shotgun_Sounds.mp3</item>
+        <item>Motorbike.mp3</item>
+        <item>muscle_car_daniel_simon.mp3</item>
+        <item>old_car_engine_daniel_simion.mp3</item>
+        <item>Police.mp3</item>
+        <item>Scary_Chainsaw.mp3</item>
+        <item>steam_train_whistle_daniel_simon.mp3</item>
+        <item>Tank.mp3</item>
+        <item>Tornado_Siren_II_Delilah.mp3</item>
+        <item>Traffic_Jam_Yo_Mama.mp3</item>
+        <item>Train_Approach_n_Pass_Mike_Koenig.mp3</item>
+        <item>Train_Honk_Horn_2x_Mike_Koeni.mp3</item>
+        <item>Train_Horn_Low.mp3</item>
+        <item>Train_sound_Indian_railways_Satish_Madiwal.mp3</item>
+        <item>Train_Whistle.mp3</item>
+    </string-array>
+
+    <string-array name="Funny">
+        <item>hahaha_Peter_De_Lang.mp3</item>
+        <item>Happy_Laughter_T_Glasse.mp3</item>
+        <item>Kid_Laugh_Long_Mike_Koenig.mp3</item>
+        <item>Kid_Laugh_Mike_Koenig.mp3</item>
+        <item>Laughter_Mike_Koenig.mp3</item>
+        <item>Maniacal Laugh_Sounds_Effects_Sound_Bite.mp3</item>
+        <item>Poltergeist_Mike_Koenig.mp3</item>
+        <item>Sick_Villain_Peter_De_Lang.mp3</item>
+        <item>Silly_Farts_Joe.mp3</item>
+        <item>Silly_Snoring_Snore_Man.mp3</item>
+        <item>Uuuuuu_Paula.mp3</item>
+    </string-array>
+
+    <string-array name="horror">
+        <item>baby_heartbeat_daniel_simon.mp3</item>
+        <item>Cinematic_Harsh_Light_Sounds_Effects_Sound Bites.mp3</item>
+        <item>creepy_background_daniel_simon.mp3</item>
+        <item>Creepy_Laugh__Adam_Webb.mp3</item>
+        <item>Crickets_Chirping-A.mp3</item>
+        <item>Demon_Girls_Mockingbir_Hello.mp3</item>
+        <item>Enraged_Zombies_Mike_Koenig.mp3</item>
+        <item>Evil_Laugh_Male_6-Himan.mp3</item>
+        <item>Female_Scream_Horror_NeoPhyTe.mp3</item>
+        <item>fighter_plane_squadron_Mike_Koen.mp3</item>
+        <item>Godzilla_Roar_Marc.mp3</item>
+        <item>Hl2_Rebel_Ragdoll485.mp3</item>
+        <item>horror_0.mp3</item>
+        <item>Horror_Ambiance_Mike_Koenig.mp3</item>
+        <item>Intro_Mark_DiAngelo.mp3</item>
+        <item>Little_Demon_Girl_Song.mp3</item>
+        <item>psychotic_laugh_female_Mike_Koenig.mp3</item>
+        <item>Scary_Ambiance.mp3</item>
+        <item>Scary_Scream.mp3</item>
+        <item>Scary_Sound_Mark_DiAngelo.mp3</item>
+        <item>Scary_Titus_Calen.mp3</item>
+        <item>Slowed_Breathing_Kibblesbob.mp3</item>
+        <item>tolling_bell_daniel_simion.mp3</item>
+        <item>Train_Hits_Guy_Train_Man.mp3</item>
+        <item>waterphone_daniel_simon.mp3</item>
+        <item>Wheres_My_Mummy_KillahChipmunl.mp3</item>
+        <item>Zombie_Horde_Mike_Koenig.mp3</item>
+        <item>Zymbel_The_Real_Horst.mp3</item>
+    </string-array>
+
+    <string-array name="natural">
+        <item>Birds_0.mp3</item>
+        <item>Cicada.mp3</item>
+        <item>elaborate_thunder_Mike_Koenig.mp3</item>
+        <item>heavy_rain_daniel_simon.mp3</item>
+        <item>Hiking_A_Trail.mp3</item>
+        <item>large_waterfall_daniel_simon.mp3</item>
+        <item>MP5_SMG_9mm_Sounds_Effects.mp3</item>
+        <item>Night_Sounds_Crickets_Lisa.mp3</item>
+        <item>rainforest_ambience_GlorySunz.mp3</item>
+        <item>Rain_Background_Mike_Koenig.mp3</item>
+        <item>Sunny_Day.mp3</item>
+        <item>thunder_sound_FX_Grant_Evans.mp3</item>
+        <item>thunder_strike_1_Mike_Koenig.mp3</item>
+        <item>water_drops_daniel_simon.mp3</item>
+    </string-array>
+    <!--    -->
+
+    <string-array name="sound">
+        <item>analog-watch-alarm_daniel-simion.mp3</item>
+        <item>Anger_Mike_Koenig.mp3</item>
+        <item>Annoying_Alien_Buzzer_Kevan.mp3</item>
+        <item>Appear_KP.mp3</item>
+        <item>Audience_Applause_Matthiew.mp3</item>
+        <item>BOMB_SIREN_BOMB_SIREN.mp3</item>
+        <item>Electric_Toothbrush_Mike_Koenig.mp3</item>
+        <item>Evil_laugh_Male.mp3</item>
+        <item>Explosion_Ultra_Bass_Mark_DiAngel.mp3</item>
+        <item>Fire_Alarm.mp3</item>
+        <item>Hammering_Soung_.mp3</item>
+        <item>Hearbeat_2_Mike_Koenig.mp3</item>
+        <item>Heart_Beat_Zarabadeu.mp3</item>
+        <item>House_Fire_Alarm.mp3</item>
+        <item>HzTone.mp3</item>
+        <item>Ice_Cream_Truck.mp3</item>
+        <item>ie_shot_gun_luminalace.mp3</item>
+        <item>Incoming_Suspense_Maximilien.mp3</item>
+        <item>Indian_Bell.mp3</item>
+        <item>Japanese_Temple_Bell.mp3</item>
+        <item>kids_record_player_daniel.mp3</item>
+        <item>Loud_Bang_Osama_Bin_Laden.mp3</item>
+        <item>Metal_Gong_Dianakc.mp3</item>
+        <item>Mosquito_Ringtone_KevanGC.mp3</item>
+        <item>Movie_Start_Music.mp3</item>
+        <item>Mystic_Chanting_4_Marianne_Gagnon.mp3</item>
+        <item>News_Intro_Maximilien.mp3</item>
+        <item>numbers.mp3</item>
+        <item>Phone_Dialing_With_Dialtone.mp3</item>
+        <item>Phone_Ringing.mp3</item>
+        <item>Phone_Ringingn.mp3</item>
+        <item>police_whistle_daniel.mp3</item>
+        <item>School_Bell.mp3</item>
+        <item>Short_triumphal_fanfare_John.mp3</item>
+        <item>shot_0.mp3</item>
+        <item>shot_1.mp3</item>
+        <item>shot_3.mp3</item>
+        <item>shot_4.mp3</item>
+        <item>Siren_Noise__KevanGC.mp3</item>
+        <item>sos_morse_code_daniel_simion.mp3</item>
+        <item>soundbible_person_whistling_at_girl_daniel_simo.mp3</item>
+        <item>Spaceship_Takeoff_Richard.mp3</item>
+        <item>Toy_Train_Whistle_KP.mp3</item>
+    </string-array>
+
+    <string-array name="think">
+        <item>baby_music_box_daniel_simion.mp3</item>
+        <item>Belch_Kevan.mp3</item>
+        <item>Bike_Horn.mp3</item>
+        <item>brush_fire_Stephan_Schutze.mp3</item>
+        <item>Buzzer.mp3</item>
+        <item>Children_Laughing-Mike_Koenig.mp3</item>
+        <item>Chipmunks_sound.mp3</item>
+        <item>Civil_War_Drummer.mp3</item>
+        <item>classic_ricochet_Grant_Evans.mp3</item>
+        <item>Class_Bell.mp3</item>
+        <item>Commedy_Punch_Poorna_RAo.mp3</item>
+        <item>Countdown_Me.mp3</item>
+        <item>Crazy_Brain_Mike_Koenig.mp3</item>
+        <item>death_Roman.mp3</item>
+        <item>ECG_Mike_Koenig.mp3</item>
+        <item>efx_NO_Fabio.mp3</item>
+        <item>Fart_Common_Everyday_Fart_Mike.mp3</item>
+        <item>Fart_Squeeze_Yer_Knees_Mike_Koeni.mp3</item>
+        <item>Faulty_Mechanics_Stephan_Schutze.mp3</item>
+        <item>Funny_Boy_Laugh_Mike_Koenig.mp3</item>
+        <item>Giggles.mp3</item>
+        <item>gun_battle.mp3</item>
+        <item>Metal_Rattling_Gerhard_Straub.mp3</item>
+        <item>old_fashioned_school_bell_daniel_simon.mp3</item>
+        <item>party_horn_Mike_Koenig.mp3</item>
+        <item>pour_glass_water_Mike_Koenig.mp3</item>
+        <item>Psycho_Scream.mp3</item>
+        <item>Sad Woman_Crying_Sounds_Effects_Sound Bites.mp3</item>
+        <item>Sad_Trombone_Joe_Lamb.mp3</item>
+        <item>Slurping.mp3</item>
+        <item>SMALL_CROWD_APPLAUSE_Yannic.mp3</item>
+        <item>small_dog_barking_daniel_simio.mp3</item>
+        <item>steam_train_daniel_simon.mp3</item>
+        <item>Warning_Siren.mp3</item>
+        <item>Woop_Woop.mp3</item>
+    </string-array>
+    <string name="horror" translatable="false">رعب</string>
+    <string name="privacypolicy">https://sites.google.com/view/govoices/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9</string>
+
+</resources>
